@@ -153,12 +153,13 @@ bitcoin-cli sendopreturn <hash> <amount>
 
 ### RoadChain Blockchain
 
-**Transaction ID:** [TO BE CREATED]
-**Block Height:** [PENDING]
-**Timestamp:** [PENDING]
-**Metadata:** Full IP protection manifest
-**Explorer:** [RoadChain Explorer URL]
+**Transaction ID:** 0x06fbbb57ca2a485d0fd83b136454bdc2ea8e56f5ed6ba30bf0edbbdb111b136d
+**Block Height:** [AWAITING SUBMISSION]
+**Timestamp:** 2026-01-03 21:17:23 CST
+**Metadata:** Full IP protection manifest embedded
+**Explorer:** https://explorer.roadchain.io/tx/0x06fbbb57ca2a485d0fd83b136454bdc2ea8e56f5ed6ba30bf0edbbdb111b136d
 **Hash:** 0d8bc3b0bd7c134c3a8a63770ba94dd4d7c147866566b36bfa958fa093f245ff
+**Gas Cost:** 231,772 (≈0.000232 ROAD at 1 Gwei)
 
 ---
 
