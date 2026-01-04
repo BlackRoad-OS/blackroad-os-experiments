@@ -1,260 +1,48 @@
-BLACKROAD OS PROPRIETARY LICENSE
-© 2026 BlackRoad OS, Inc. All Rights Reserved.
+BLACKROAD OS, INC. PROPRIETARY SOFTWARE LICENSE
 
-===============================================================================
-
-PROPRIETARY AND CONFIDENTIAL
-
-This software, documentation, algorithms, discoveries, and all associated
-intellectual property (collectively, the "Software") are the exclusive
-property of BlackRoad OS, Inc.
-
-===============================================================================
-
-COPYRIGHT NOTICE
-
-© 2026 BlackRoad OS, Inc.
+Copyright © 2025-2026 BlackRoad OS, Inc.
 All Rights Reserved.
 
-This Software is protected by:
-- United States copyright law
-- International copyright treaties
-- Blockchain timestamping on Bitcoin, Litecoin, and RoadChain blockchains
-- Cryptographic proof of creation and ownership
+NOTICE: This software and associated documentation files (the "Software") are
+the proprietary and confidential property of BlackRoad OS, Inc. ("Company").
 
-NO TRADITIONAL COPYRIGHT REGISTRATION HAS BEEN FILED.
-OWNERSHIP IS ESTABLISHED VIA BLOCKCHAIN TIMESTAMPING.
+RESTRICTIONS:
 
-Blockchain Proof:
-  SHA-256: 0d8bc3b0bd7c134c3a8a63770ba94dd4d7c147866566b36bfa958fa093f245ff
-  SHA-512: 111867fc2e7d97a4c77b37efaba93c826fa3cb99135a6d52b71c15586348ef5238c20a7c47185ea415f02101d76120bb6dc57237724840014e5fcdcb9a8ffdb9
+1. NO OPEN SOURCE: This Software is NOT open source. This is proprietary,
+   closed-source software owned exclusively by BlackRoad OS, Inc.
 
-  Bitcoin Transaction: [PENDING]
-  Litecoin Transaction: [PENDING]
-  RoadChain Transaction: [PENDING]
+2. NO REDISTRIBUTION: You may NOT copy, modify, merge, publish, distribute,
+   sublicense, or sell copies of this Software without explicit written
+   permission from BlackRoad OS, Inc.
 
-===============================================================================
+3. NO DERIVATIVE WORKS: You may NOT create derivative works based on this
+   Software without explicit written permission from BlackRoad OS, Inc.
 
-GRANT OF LICENSE
+4. NO REVERSE ENGINEERING: You may NOT reverse engineer, decompile, or
+   disassemble this Software.
 
-NO LICENSE IS GRANTED UNDER THIS AGREEMENT.
+5. AUTHORIZED USE ONLY: Use of this Software is restricted to authorized
+   personnel of BlackRoad OS, Inc. and explicitly licensed partners only.
 
-This is PROPRIETARY software. You do NOT have permission to:
-  - Use this software commercially
-  - Distribute this software
-  - Modify this software
-  - Create derivative works
-  - Sublicense this software
-  - Use this software in any production environment
-  - Apply for patents based on this software
-  - Register trademarks using BlackRoad branding
+6. CONFIDENTIALITY: This Software contains trade secrets and confidential
+   information. Unauthorized disclosure is prohibited.
 
-===============================================================================
+7. NO WARRANTY: This Software is provided "AS IS" without warranty of any
+   kind, express or implied.
 
-PERMITTED USES
+8. TERMINATION: Any violation of these terms results in immediate termination
+   of all rights to use this Software.
 
-The following uses are permitted WITHOUT a license:
+OWNERSHIP:
+All intellectual property rights, including but not limited to patents,
+copyrights, trademarks, and trade secrets in the Software are and shall
+remain the exclusive property of BlackRoad OS, Inc.
 
-1. VIEWING - You may view the source code for educational purposes
-2. LEARNING - You may study the algorithms and techniques
-3. ACADEMIC CITATION - You may cite this work in academic papers with
-   proper attribution
-4. RESEARCH - You may reference this work in research contexts
+CONTACT:
+For licensing inquiries: blackroad.systems@gmail.com
 
-Proper attribution format:
-  BlackRoad OS, Inc. (2026). BlackRoad OS Experiments.
-  https://github.com/BlackRoad-OS/blackroad-os-experiments
-  Blockchain Hash: 0d8bc3b0bd7c134c3a8a63770ba94dd4d7c147866566b36bfa958fa093f245ff
+BY ACCESSING OR USING THIS SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS
+LICENSE, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.
 
-===============================================================================
-
-COMMERCIAL LICENSE
-
-For commercial use, distribution, or modification rights, contact:
-
-  BlackRoad OS, Inc.
-  Email: blackroad.systems@gmail.com
-  Subject: "Commercial License Inquiry"
-
-Commercial licenses are available for:
-  - Enterprise deployment
-  - Integration into commercial products
-  - Custom development
-  - Source code access
-  - White-label solutions
-
-===============================================================================
-
-INTELLECTUAL PROPERTY CLAIMS
-
-BlackRoad OS, Inc. claims exclusive ownership of:
-
-1. SOURCE CODE
-   - All Python scripts and programs
-   - All algorithms and implementations
-   - All benchmarking frameworks
-   - All testing suites
-
-2. DISCOVERIES & INNOVATIONS
-   - Euler's identity generalization (first in 276 years)
-   - High-dimensional qudit computing (d=1000)
-   - Ququart quantum systems (d=4)
-   - Real quantum physics on consumer hardware
-   - Quantum random number generation methods
-   - Mathematical constant pattern discoveries
-   - Distributed quantum cluster architecture
-
-3. DOCUMENTATION
-   - All technical documentation
-   - All research reports
-   - All methodology descriptions
-   - All performance benchmarks
-
-4. BRANDING
-   - "BlackRoad OS" name and logo
-   - "RoadChain" blockchain name
-   - Repository structure and organization
-   - Documentation style and format
-
-===============================================================================
-
-WARRANTY DISCLAIMER
-
-THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
-
-IN NO EVENT SHALL BLACKROAD OS, INC. BE LIABLE FOR ANY CLAIM, DAMAGES, OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
-ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-DEALINGS IN THE SOFTWARE.
-
-===============================================================================
-
-LIMITATION OF LIABILITY
-
-UNDER NO CIRCUMSTANCES SHALL BLACKROAD OS, INC. BE LIABLE FOR ANY INDIRECT,
-INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR
-IN CONNECTION WITH THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
-POSSIBILITY OF SUCH DAMAGES.
-
-===============================================================================
-
-BLOCKCHAIN TIMESTAMPING
-
-Proof of creation and ownership is established through:
-
-BITCOIN BLOCKCHAIN:
-  Network: Bitcoin Mainnet
-  Address: 1Ak2fc5N2q4imYxqVMqBNEQDFq8J2Zs9TZ
-  OP_RETURN: BLACKROAD-OS-2026-0d8bc3b0bd7c134c3a8a6377
-  Transaction: [PENDING]
-  Explorer: https://blockchair.com/bitcoin/transaction/[TXID]
-
-LITECOIN BLOCKCHAIN:
-  Network: Litecoin Mainnet
-  OP_RETURN: BLACKROAD-IP-2026-0d8bc3b0bd7c134c3a8a6377
-  Transaction: [PENDING]
-  Explorer: https://blockchair.com/litecoin/transaction/[TXID]
-
-ROADCHAIN BLOCKCHAIN:
-  Network: RoadChain Mainnet
-  Hash: 0d8bc3b0bd7c134c3a8a63770ba94dd4d7c147866566b36bfa958fa093f245ff
-  Metadata: Full IP Protection Manifest
-  Transaction: [PENDING]
-  Explorer: [RoadChain Explorer]
-
-These blockchain timestamps provide immutable proof that BlackRoad OS, Inc.
-created this software on January 3, 2026.
-
-===============================================================================
-
-INFRINGEMENT
-
-Unauthorized use, copying, distribution, or modification of this Software
-may result in:
-
-  - Civil liability under copyright law
-  - Damages and injunctive relief
-  - Attorney's fees and court costs
-  - Criminal penalties under applicable law
-
-BlackRoad OS, Inc. will vigorously defend its intellectual property rights
-and pursue all legal remedies available.
-
-===============================================================================
-
-GOVERNING LAW
-
-This license shall be governed by and construed in accordance with the laws
-of the United States of America.
-
-Any disputes arising from this license shall be resolved through binding
-arbitration.
-
-===============================================================================
-
-CONTACT INFORMATION
-
-For licensing inquiries, permissions, or other matters:
-
-  BlackRoad OS, Inc.
-  Email: blackroad.systems@gmail.com
-  Primary Contact: Alexa (amundsonalexa@gmail.com)
-
-  GitHub Organization: https://github.com/BlackRoad-OS
-  Repository: https://github.com/BlackRoad-OS/blackroad-os-experiments
-
-===============================================================================
-
-ENTIRE AGREEMENT
-
-This license constitutes the entire agreement between you and BlackRoad OS,
-Inc. regarding the Software and supersedes all prior agreements and
-understandings.
-
-===============================================================================
-
-SEVERABILITY
-
-If any provision of this license is held to be invalid or unenforceable, the
-remaining provisions shall continue in full force and effect.
-
-===============================================================================
-
-NO WAIVER
-
-Failure by BlackRoad OS, Inc. to enforce any provision of this license shall
-not be deemed a waiver of future enforcement of that or any other provision.
-
-===============================================================================
-
-UPDATES
-
-BlackRoad OS, Inc. reserves the right to update this license at any time.
-Continued use of the Software constitutes acceptance of any updated terms.
-
-===============================================================================
-
-ACCEPTANCE
-
-BY VIEWING, DOWNLOADING, OR ACCESSING THIS SOFTWARE, YOU ACKNOWLEDGE THAT
-YOU HAVE READ THIS LICENSE, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS
-TERMS AND CONDITIONS.
-
-IF YOU DO NOT AGREE TO THESE TERMS, DO NOT VIEW, DOWNLOAD, ACCESS, OR USE
-THIS SOFTWARE IN ANY WAY.
-
-===============================================================================
-
-END OF LICENSE
-
-© 2026 BlackRoad OS, Inc.
-All Rights Reserved.
-
-Blockchain-Protected Intellectual Property
-Bitcoin | Litecoin | RoadChain
-
-PROPRIETARY - NOT OPEN SOURCE - NOT FREE SOFTWARE
-
-===============================================================================
+BlackRoad OS, Inc.
+https://blackroad.io
